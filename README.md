@@ -10,7 +10,7 @@ To install dependencies,
 ```bash
 $ npm install
 ```
-
+<!-- #vasanth -->
 To run the project itself,
 ```bash
 $ npm start
